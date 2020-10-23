@@ -1,2 +1,3 @@
 # Grading-Students-HackerrankSolution-
-C solution:
+C solution: Open main.c for code.
+
